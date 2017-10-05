@@ -1,0 +1,105 @@
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInBangSach.resources
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.FormLoad.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiMuon.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiTra.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\ShockwaveFlashObjects.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\stdole.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.FormLoad.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInBangSach.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiMuon.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiTra.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.FormLoad.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInBangSach.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiMuon.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiTra.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+F:\ki 6\TT nhom\QLTV\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
