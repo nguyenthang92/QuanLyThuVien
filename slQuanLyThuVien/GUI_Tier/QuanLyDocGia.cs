@@ -165,7 +165,32 @@ namespace GUI_Tier
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            
+            if (lvwDanhSachDG.SelectedItems.Count > 0)
+            {
+                if (btnSua.Text == "Sửa")
+                {
+                    btnSua.Text = "Hủy";
+                    grbChiTietDG.Enabled = true;
+                    btnThem.Enabled = false;
+                    btnXoa.Enabled = false;
+                    btnLuu.Enabled = true;
+                    dtNgayMuon.Text = "";
+                    txtMaDG.Focus();
+                }
+                else
+                {
+                    btnSua.Text = "Sửa";
+                    grbChiTietDG.Enabled = false;
+                    btnThem.Enabled = true;
+                    btnXoa.Enabled = true;
+                    btnLuu.Enabled = false;
+                    dtNgayMuon.Text = "";
+                }
+            }
+            else
+            {
+                MessageBox.Show("Bạn hãy chọn dữ liệu cần sửa!", "Thông báo");
+            }
         }
         private void btnXoa_Click(object sender, EventArgs e)
         {
