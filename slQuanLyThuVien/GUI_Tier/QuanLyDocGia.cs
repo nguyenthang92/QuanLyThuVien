@@ -144,6 +144,23 @@ namespace GUI_Tier
         }
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (btnThem.Text == "Thêm")
+            {
+                btnThem.Text = "Hủy";
+                grbChiTietDG.Enabled = true;
+                txtMaDG.Text = "";
+                txtTenDG.Text = "";
+                dtNgayMuon.Text = "";
+                txtDiaChi.Text = "";
+                txtMaDG.Focus();
+                btnXoa.Enabled = false;
+                btnSua.Enabled = false;
+                lvwDanhSachDG.Enabled = false;
+            }
+            else
+            {
+                setButton();
+            }
         }
 
         private void btnSua_Click(object sender, EventArgs e)
