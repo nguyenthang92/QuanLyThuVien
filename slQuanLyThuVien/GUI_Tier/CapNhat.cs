@@ -351,7 +351,32 @@ namespace GUI_Tier
         }
         private void btnLuuLoaiSach_Click(object sender, EventArgs e)
         {
-            
+            if (txtMaLoaiSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập mã loại sách!", "Error");
+                txtMaLoaiSach.Focus();
+            }
+            else if (txtTenLoaiSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập tên loại sách!", "Error");
+                txtTenLoaiSach.Focus();
+            }
+            else if (txtKieuSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập kiểu sách!", "Error");
+                txtKieuSach.Focus();
+            }
+            else
+            {
+                if (lvwDanhSachLoaiSach.SelectedItems.Count == 0)
+                {
+                    LuuThemLoaiSach();
+                }
+                else
+                {
+                    LuuSuaLoaiSach();
+                }
+            }
         }
         private void btnXoaLoaiSach_Click(object sender, EventArgs e)
         {
