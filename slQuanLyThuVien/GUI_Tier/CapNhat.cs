@@ -380,7 +380,35 @@ namespace GUI_Tier
         }
         private void btnXoaLoaiSach_Click(object sender, EventArgs e)
         {
-           
+            if (lvwDanhSachLoaiSach.SelectedItems.Count > 0)
+            {
+                DialogResult dl = MessageBox.Show("Bạn có chắc muốn xoa dữ liệu này không?", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dl == DialogResult.Yes)
+                {
+                    try
+                    {
+                        DataRow[] dr = dtLoaiSach.Select("MaLoaiSach='" + txtMaLoaiSach.Text + "'");
+                        dr[0].Delete();
+                        objLoaiSach.CapNhatTale_LoaiSach(dtLoaiSach);
+                        // clear text
+                        txtMaLoaiSach.Text = "";
+                        txtTenLoaiSach.Text = "";
+                        txtKieuSach.Text = "";
+                        setButtonLoaiSach();
+                        NapListViewLoaiSach();
+                        MessageBox.Show("Xóa thành công!");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Bạn hãy chọn dữ liệu cần xóa!");
+            }
         }
 
         private void btnThoatLoaiSach_Click(object sender, EventArgs e)
