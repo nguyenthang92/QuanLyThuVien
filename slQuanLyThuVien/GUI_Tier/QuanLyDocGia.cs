@@ -194,7 +194,29 @@ namespace GUI_Tier
         }
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            
+            if (lvwDanhSachDG.SelectedItems.Count > 0)
+            {
+                DialogResult dl = MessageBox.Show("Bạn có chắc muốn xóa dữ liệu này?", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dl == DialogResult.Yes)
+                {
+                    DataRow[] dr = dtDocGia.Select("MaDG='" + txtMaDG.Text + "'");
+                    dr[0].Delete();
+                    objDocGia.CapNhatTable_DocGia(dtDocGia);
+                    // clear text
+                    txtMaDG.Text = "";
+                    txtTenDG.Text = "";
+                    radNam.Checked = true;
+                    dtNgayMuon.Text = "";
+                    txtDiaChi.Text = "";
+                    grbChiTietDG.Enabled = false;
+                    NapListViewDSDocGia();
+                    MessageBox.Show("Xóa dữ liệu thành công!", "Thông báo");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Hãy chọn dữ liệu cần xóa!", "Thông báo");
+            }
         }
 
         private void QuanLyDocGia_FormClosing(object sender, FormClosingEventArgs e)
