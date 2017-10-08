@@ -351,11 +351,64 @@ namespace GUI_Tier
         }
         private void btnLuuLoaiSach_Click(object sender, EventArgs e)
         {
-            
+            if (txtMaLoaiSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập mã loại sách!", "Error");
+                txtMaLoaiSach.Focus();
+            }
+            else if (txtTenLoaiSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập tên loại sách!", "Error");
+                txtTenLoaiSach.Focus();
+            }
+            else if (txtKieuSach.Text == "")
+            {
+                MessageBox.Show("Chưa nhập kiểu sách!", "Error");
+                txtKieuSach.Focus();
+            }
+            else
+            {
+                if (lvwDanhSachLoaiSach.SelectedItems.Count == 0)
+                {
+                    LuuThemLoaiSach();
+                }
+                else
+                {
+                    LuuSuaLoaiSach();
+                }
+            }
         }
         private void btnXoaLoaiSach_Click(object sender, EventArgs e)
         {
-           
+            if (lvwDanhSachLoaiSach.SelectedItems.Count > 0)
+            {
+                DialogResult dl = MessageBox.Show("Bạn có chắc muốn xoa dữ liệu này không?", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dl == DialogResult.Yes)
+                {
+                    try
+                    {
+                        DataRow[] dr = dtLoaiSach.Select("MaLoaiSach='" + txtMaLoaiSach.Text + "'");
+                        dr[0].Delete();
+                        objLoaiSach.CapNhatTale_LoaiSach(dtLoaiSach);
+                        // clear text
+                        txtMaLoaiSach.Text = "";
+                        txtTenLoaiSach.Text = "";
+                        txtKieuSach.Text = "";
+                        setButtonLoaiSach();
+                        NapListViewLoaiSach();
+                        MessageBox.Show("Xóa thành công!");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Bạn hãy chọn dữ liệu cần xóa!");
+            }
         }
 
         private void btnThoatLoaiSach_Click(object sender, EventArgs e)
@@ -364,7 +417,30 @@ namespace GUI_Tier
         }
         private void btnSuaLoaiSach_Click(object sender, EventArgs e)
         {
-           
+            if (lvwDanhSachLoaiSach.SelectedItems.Count > 0)
+            {
+                if (btnSuaLoaiSach.Text == "Sửa")
+                {
+                    btnSuaLoaiSach.Text = "Hủy";
+                    grbChiTietLoaiSach.Enabled = true;
+                    txtMaLoaiSach.Enabled = false;
+                    txtTenLoaiSach.SelectAll();
+                    txtTenLoaiSach.Focus();
+                    btnThemLoaiSach.Enabled = false;
+                    btnXoaLoaiSach.Enabled = false;
+                }
+                else
+                {
+                    btnSuaLoaiSach.Text = "Sửa";
+                    grbChiTietLoaiSach.Enabled = false;
+                    btnThemLoaiSach.Enabled = true;
+                    btnXoaLoaiSach.Enabled = true;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Chưa chọn dữ liệu cần sữa!");
+            }
         }
     }
 }
