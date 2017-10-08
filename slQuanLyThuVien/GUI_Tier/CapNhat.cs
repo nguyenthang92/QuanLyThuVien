@@ -417,7 +417,30 @@ namespace GUI_Tier
         }
         private void btnSuaLoaiSach_Click(object sender, EventArgs e)
         {
-           
+            if (lvwDanhSachLoaiSach.SelectedItems.Count > 0)
+            {
+                if (btnSuaLoaiSach.Text == "Sửa")
+                {
+                    btnSuaLoaiSach.Text = "Hủy";
+                    grbChiTietLoaiSach.Enabled = true;
+                    txtMaLoaiSach.Enabled = false;
+                    txtTenLoaiSach.SelectAll();
+                    txtTenLoaiSach.Focus();
+                    btnThemLoaiSach.Enabled = false;
+                    btnXoaLoaiSach.Enabled = false;
+                }
+                else
+                {
+                    btnSuaLoaiSach.Text = "Sửa";
+                    grbChiTietLoaiSach.Enabled = false;
+                    btnThemLoaiSach.Enabled = true;
+                    btnXoaLoaiSach.Enabled = true;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Chưa chọn dữ liệu cần sữa!");
+            }
         }
     }
 }
