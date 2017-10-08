@@ -109,3 +109,6 @@ C:\Users\Hung\Documents\GitHub\Quản lý thư viện\QuanLyThuVien\slQuanLyThuV
 C:\Users\HOANGHAI\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
 C:\Users\HOANGHAI\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
 C:\Users\HOANGHAI\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
