@@ -165,6 +165,7 @@ namespace GUI_Tier
                 MessageBox.Show("Chưa chọn dữ liệu cần xóa!");
             }
         }
+        //Chinh sua code nay
         private void lvwDanhSachTG_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (lvwDanhSachTG.SelectedItems.Count > 0)

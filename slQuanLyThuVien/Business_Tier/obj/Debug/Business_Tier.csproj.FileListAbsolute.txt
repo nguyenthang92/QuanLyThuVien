@@ -26,3 +26,10 @@ C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\b
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
