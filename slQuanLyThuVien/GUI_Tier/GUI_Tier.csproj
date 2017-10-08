@@ -92,6 +92,12 @@
     <Compile Include="frmInNguoiTra.Designer.cs">
       <DependentUpon>frmInNguoiTra.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gioithieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gioithieu.Designer.cs">
+      <DependentUpon>Gioithieu.cs</DependentUpon>
+    </Compile>
     <Compile Include="MuonTraSach.cs">
       <SubType>Form</SubType>
     </Compile>

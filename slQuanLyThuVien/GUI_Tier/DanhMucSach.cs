@@ -128,6 +128,12 @@ namespace GUI_Tier
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Gioithieu f = new Gioithieu();
+            f.ShowDialog();
+        }
+
         private void btnKetThuc_Click(object sender, EventArgs e)
         {
             this.Close();

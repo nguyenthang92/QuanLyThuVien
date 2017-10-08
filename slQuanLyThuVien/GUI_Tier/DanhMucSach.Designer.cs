@@ -66,6 +66,7 @@
             this.btnQuanLyMuonTra = new System.Windows.Forms.Button();
             this.btnQuanLyTacGia = new System.Windows.Forms.Button();
             this.btnCapNhat = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -306,7 +307,7 @@
             this.thoatToolStripMenuItem,
             this.thoatToolStripMenuItem1});
             this.quanToolStripMenuItem.Name = "quanToolStripMenuItem";
-            this.quanToolStripMenuItem.Size = new System.Drawing.Size(119, 20);
+            this.quanToolStripMenuItem.Size = new System.Drawing.Size(118, 20);
             this.quanToolStripMenuItem.Text = "Quản Lý Hệ Thống";
             // 
             // iToolStripMenuItem
@@ -370,7 +371,7 @@
             this.btnKetThuc.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKetThuc.Image = global::GUI_Tier.Properties.Resources._3291;
             this.btnKetThuc.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnKetThuc.Location = new System.Drawing.Point(784, 406);
+            this.btnKetThuc.Location = new System.Drawing.Point(784, 469);
             this.btnKetThuc.Name = "btnKetThuc";
             this.btnKetThuc.Size = new System.Drawing.Size(249, 55);
             this.btnKetThuc.TabIndex = 4;
@@ -430,11 +431,25 @@
             this.btnCapNhat.UseVisualStyleBackColor = true;
             this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
             // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Image = global::GUI_Tier.Properties.Resources.EmploymentHistory;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(784, 406);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(249, 55);
+            this.button1.TabIndex = 8;
+            this.button1.Text = "Giới Thiệu";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // DanhMucSach
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.ClientSize = new System.Drawing.Size(1043, 589);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnQuanLyDocGia);
             this.Controls.Add(this.btnKetThuc);
             this.Controls.Add(this.btnTimKiem);
@@ -503,6 +518,7 @@
         private System.Windows.Forms.ToolStripMenuItem thoatToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem đôcGiaMươnSachToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem danhSachĐôcGiaTraSachToolStripMenuItem;
+        private System.Windows.Forms.Button button1;
     }
 }
 
