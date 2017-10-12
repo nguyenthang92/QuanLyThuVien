@@ -115,3 +115,6 @@ C:\Users\NTB\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Deb
 C:\Users\Duong Hung\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
 C:\Users\Duong Hung\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
 C:\Users\Duong Hung\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\Khong Minh\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\Khong Minh\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\Khong Minh\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
