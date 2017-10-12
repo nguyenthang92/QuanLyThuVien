@@ -160,6 +160,9 @@
     <EmbeddedResource Include="frmInNguoiTra.resx">
       <DependentUpon>frmInNguoiTra.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Gioithieu.resx">
+      <DependentUpon>Gioithieu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MuonTraSach.resx">
       <DependentUpon>MuonTraSach.cs</DependentUpon>
     </EmbeddedResource>
