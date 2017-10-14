@@ -17,3 +17,4 @@ C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Data_Tier\bin\D
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Data_Tier\bin\Debug\Data_Tier.pdb
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Data_Tier\obj\Debug\Data_Tier.dll
 C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Data_Tier\obj\Debug\Data_Tier.pdb
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\Data_Tier\obj\Debug\Data_Tier.csprojResolveAssemblyReference.cache
