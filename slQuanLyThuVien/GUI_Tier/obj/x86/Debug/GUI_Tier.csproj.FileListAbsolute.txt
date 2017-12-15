@@ -165,3 +165,4 @@ C:\Users\aly\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Deb
 C:\Users\aly\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
 C:\Users\aly\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
 C:\Users\aly\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
+C:\Users\SlowRock\Documents\GitHub\QuanLyThuVien\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Gioithieu.resources
